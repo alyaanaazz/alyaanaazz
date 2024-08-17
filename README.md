@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alyaanaazz
-- 🌱 I’m currently learning python
 - 📫 reach me on Instagram : @alyaanaazz, email : nisrinaalyanabilah@gmail.com, line me : alyanaazz
 
 <!---
