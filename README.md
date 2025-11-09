@@ -4,9 +4,9 @@
 
 <h3> About Me</h3>
 
-- 🏫 I’m a Second Year Computer Science student at Universitas Indonesia
+- 🏫 I'm a Second Year Computer Science student at Universitas Indonesia
   
-- 💻 I’m currently learning Rust, Go, Typescript, and many more...
+- 💻 I'm currently learning Rust, Go, Typescript, and many more...
   
 
 <h2> Tech Stack</h2>
